@@ -3,4 +3,5 @@ untuk bealajar github harus mengetahui beberapa terminilogi berikut :
 2. commit
 3. branch 
 4. marge
-5. clone
+6. pull
+7. push
